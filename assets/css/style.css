@@ -1437,10 +1437,12 @@ footer .credits a {
 }
 
 .home__social{
+  
   display: flex;
   flex-direction: column;
 }
 .home__social-icon{
+  
   width: max-content;
   margin-bottom: var(--mb-2);
   font-size: 1.5rem;
